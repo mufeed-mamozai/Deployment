@@ -1,0 +1,2 @@
+git rm --cached -r practice.txt
+git rm --cached -r practice.txt
